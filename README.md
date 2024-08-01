@@ -35,8 +35,8 @@ Die Geolokalisierung mit der UWB-Technologie beruht auf der Triangulation zwisch
 Das entwickelte System zeigte eine hohe Präzision und Reaktionsfähigkeit bei der Positionsverfolgung in Echtzeit. Die von den UWB-Modulen gesendeten und vom ESP32 verarbeiteten Daten ermöglichten die Ortung eines beweglichen Objekts mit einer Fehlerquote von weniger als 20 cm.
 <p align="center">
   <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/92cf44eb-ecce-4f13-b941-4343075178d5" alt="Capture d'écran 2024-07-22 181003 - Copie" style="width: auto; height: 240px; margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/6bac45d7-c866-430e-99f8-74795ce5ec78" alt="IMG_20240722_181613 1" style="width: auto; height: 200px;">
+    <img src="351039906-92cf44eb-ecce-4f13-b941-4343075178d5.png" style="width: auto; height: 240px; margin-right: 10px;">
+    <img src="351041388-6bac45d7-c866-430e-99f8-74795ce5ec78.jpg" style="width: auto; height: 200px;">
   </div>
 </p>
 
@@ -56,4 +56,4 @@ Wir hatten nur eine begrenzte Auswahl an Materialien zur Verfügung, was die Her
 
 Am Tag des Wettbewerbs navigierte der Roboter präzise und effizient durch das Labyrinth und gewann den ersten Platz.
 
-![VID_20240219_182350(1) (online-video-cutter com) (1)](https://github.com/user-attachments/assets/517fcd24-457c-4e8b-ad78-b9be3997f2ef)
+![VID_20240219_182350(1) (online-video-cutter com) (1)](351051464-517fcd24-457c-4e8b-ad78-b9be3997f2ef.gif)
